@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **WEB DEVELOPMENT, JAVA**
 
-- 💬 Ask me about **GSAP**
+- 💬 Ask me about **GSoc**
 
 - 📫 How to reach me **PRIYANSHURAJ198@GMAIL.COM**
 
